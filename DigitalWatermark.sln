@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "ConsoleApp1\Console.csproj", "{FE0553BE-3E65-443E-BC7C-E52C83E06041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalWatermarkLib", "DigitalWatermarkLib\DigitalWatermarkLib.csproj", "{D4905F72-9D90-4A0A-899A-88362A8694CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0553BE-3E65-443E-BC7C-E52C83E06041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0553BE-3E65-443E-BC7C-E52C83E06041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0553BE-3E65-443E-BC7C-E52C83E06041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0553BE-3E65-443E-BC7C-E52C83E06041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4905F72-9D90-4A0A-899A-88362A8694CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4905F72-9D90-4A0A-899A-88362A8694CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4905F72-9D90-4A0A-899A-88362A8694CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4905F72-9D90-4A0A-899A-88362A8694CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863F75FF-4409-4674-8E8F-183C0375FA3F}
+	EndGlobalSection
+EndGlobal
